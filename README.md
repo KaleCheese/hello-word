@@ -1,2 +1,5 @@
 # hello-word
-just another repository
+
+yo
+
+am i doing it right?
